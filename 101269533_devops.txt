@@ -1,0 +1,6 @@
+This class will be working with bash, cli, git, gitbash, and many other platforms such as 
+jenkins, travis, cloud infrastucture. Includes working with devops assembly lines,
+and learning what a devops role is. There is some stuff to learn about about quality assurance,
+assembly lines, assignments and labs to help us help learn. 
+
+

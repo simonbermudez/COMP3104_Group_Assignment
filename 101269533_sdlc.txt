@@ -1,0 +1,8 @@
+DevOps is an approach to software development, where the operations department collaborates with the development team during all phases of development. This includes product design, development, support, testing, and deployment.
+A DevOps pipeline is based on Agile approaches. DevOps provides the same standards and quality checks as Agile development. Before Agile and DevOps, operations and developers worked in silos. Developers made the product, and the operations managed all the other processes. DevOps and Agile improve this approach by ensuring the successful delivery of software during every iteration. 
+This approach improves both internal workflows and end-user experience.
+DevOps provides a competitive advantage to organizations—by enabling them to improve and create products faster. 
+Collaboration helps operations and development to reduce implementation failures, have shorter development cycles, and improve internal communication.
+DevOps enable teams to follow the entire deployment cycle—from writing and testing code to integration, containerization, and delivery. 
+DevOps enables you to see the full picture.
+Devops makes for a good profession. 
