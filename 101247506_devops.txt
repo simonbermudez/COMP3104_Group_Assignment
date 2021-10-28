@@ -5,3 +5,6 @@ It has a set of processes that when applied correctly can:
 3. Enforce best security practices
 4. Expedite product delivery
 5. Improve communication and collaboration across teams
+
+
+Since a DevOps engineer wouldn’t be responsible for developing a product, we won’t be working in the product development domain. Given this, we will be starting with a working web application. After the pre-requisites are installed during our lab, we’ll look under the hood of the application that we’ve been given to get Continuously Integrated and Continuously Deployed (CI/CD).
