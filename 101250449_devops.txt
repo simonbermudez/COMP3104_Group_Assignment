@@ -1,1 +1,87 @@
-o This file contains information about COMP 3104 DevOps course.
+This file contains information about COMP 3104 DevOps course.
+
+
+This course contains the following:
+
+- Why DevOps?
+- Future of DevOps
+- What is a build pipeline?
+- Introduction to course material
+- Project Assignment Overview
+- BASH Commands 101
+- Installing Course Dependencies
+Version Control Systems
+- Utilization of VCS
+- VCS Terminology
+- Role of VCS in build pipelines
+- CVCS vs DVCS
+- GitHub Overview
+- More BASH commands and
+shell script
+- Asymmetric crypto, SSH and
+Access token
+- CLI Text Editors
+- Configuring your local
+environment for VCS
+o GitHub Desktop
+o SourceTree
+Leveraging VCS for DevOps
+- Application Architectures, then
+& now
+- Monolith vs Microservice
+architecture
+- Vertical & horizontal scaling
+- Tech stack behind reliable
+applications
+- Remote VCS repositories
+- Creating remote repositories
+- Git CLI
+DevOps roles & responsibilities
+- Tools & techniques in the
+DevOps sphere
+- DevOps culture and lifecycle
+- Core DevOps principles
+- Career opportunities in DevOps
+- Demand & compensation for
+engineers
+- VCS workflows
+- Working with Travis for CI
+- Configuring Travis
+The anatomy of a Single Page
+App
+- Lightning fast deploys with
+SPAs
+- Hosting SPAs
+- Working with front-end
+developers
+- Front end tooling found for
+build sequencing
+- Introduction to build tools
+- Gradle and Maven
+- Work tracking using Jira
+Mechanisms to integrate and
+validate source code changes
+- Installing and configuring
+Jenkins for CI/CD pipeline
+- Deploying to infrastructure
+environments
+- How CI improves collaboration
+and code quality
+- Continuous Testing
+- How CI/CD increases
+deployment velocity
+- Working with markdown for
+GitHub documentation 
+Building pipelines for failures
+- Monitoring pipeline sequences
+- Phases in a CD pipeline
+- Branch deployments in CI/CD
+pipelines
+- Running feature branches
+- Git hooks to notify changes to
+external apps
+- CI/CD tooling
+- Writing Declarative and
+Scripted pipeline in Jenkins
+- Achieving low risk releases
+with deployment strategies
