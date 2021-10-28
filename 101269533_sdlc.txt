@@ -5,4 +5,4 @@ DevOps provides a competitive advantage to organizations—by enabling them to i
 Collaboration helps operations and development to reduce implementation failures, have shorter development cycles, and improve internal communication.
 DevOps enable teams to follow the entire deployment cycle—from writing and testing code to integration, containerization, and delivery. 
 DevOps enables you to see the full picture.
-
+Devops makes for a good profession. 
