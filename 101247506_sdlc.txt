@@ -1,0 +1,1 @@
+In a DevOps environment, cross functionality, shared responsibilities and trust are promoted. DevOps essentially extends the continuous development goals of the Agile movement to continous integration and release. In order to accommodate continuous releases, DevOps encourages automation of the change, configuration and release processes.
