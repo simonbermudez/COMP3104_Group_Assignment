@@ -1,1 +1,7 @@
 Max Grossman - Software Development LifeCycle
+The term “Software Development Life Cycle” dates back to the 1950s.
+At that time, there weren’t any other methods or frameworks available.
+There was only one method described as the Software Development Life Cycle — “develop large-scale functional business systems in an age of large-scale business conglomerates. Information systems activities revolved around heavy data processing and number crunching routines.”
+Today, the definition of the software development life cycle is the following:
+Build high-quality software in the least possible time by following the 7 phases of the software development life cycle.
+Now, there are various SDLC methodologies, Waterfall being the oldest and most popular one dating back to the 1960s.
