@@ -1,1 +1,2 @@
 About: COMP3104 DevOps (Developer Operations)
+- In this course students learn procedures, protocols and best practices of DevOps.
