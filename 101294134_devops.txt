@@ -1,1 +1,4 @@
 Max Grossman - Devops
+COMP3104 Is a course at George Brown that is taught by Professor Pritesh. We are curently 
+learning about different stategies for development operations. Using programs
+like Git and Travis we are able to automize different aspects of application deployment
