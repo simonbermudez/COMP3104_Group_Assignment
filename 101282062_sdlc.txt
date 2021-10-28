@@ -1,0 +1,5 @@
+About: Learning of DevOps enginner in software development cycle
+- DevOps techniques are able to provide solutions using industry standard tools
+- DevOps techniques include continuous integration/delivery/deployment strategies
+- Analyze and utilize Version Control System workflows for low-risk software releases.
+- Monitor code qualuit
