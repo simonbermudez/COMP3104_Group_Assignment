@@ -1,0 +1,5 @@
+In a DevOps environment, cross functionality, shared responsibilities and trust are promoted. DevOps essentially extends the continuous development goals of the Agile movement to continous integration and release. In order to accommodate continuous releases, DevOps encourages automation of the change, configuration and release processes.
+
+DevOps is a culture and not just a role. It has to be implemented across the company for it to work. Senior leadership also needs to be involved along with everyone. DevOps is thus concerned with continual learning and improvement. You thus develop more products and services with improved speed and quality.
+
+The Software Development Life Cycle is an intricate process which involves various steps for delivering goals and objectives.
