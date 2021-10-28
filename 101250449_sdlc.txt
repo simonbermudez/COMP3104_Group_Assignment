@@ -1,1 +1,39 @@
 This file contains details about important of learning DevOps engineer in software development cycle
+
+A lot of folks from the software industry might know a thing or two about the word DevOps. But your understanding of DevOps is certainly incomplete without knowing the DevOps Life cycle. So in this blog, I would try and throw some light on DevOps Life cycle. After reading this blog you will know a lot more stuff about the DevOps life cycle which would be a positive step towards probable certification.
+
+In this blog we will cover the following topics:
+
+Why DevOps?
+What is DevOps?
+What is DevOps Life cycle?
+So let us start our discussion on this amazing topic.
+
+Why DevOps?
+Before we know what DevOps is, it is very important to know how DevOps came into existence. Before DevOps, we had the waterfall model and the agile model for software development. So let us have a look at the waterfall model.
+
+Waterfall Model
+The waterfall model can be defined as a sequential process in the development of a system or software that follows a top-down approach. This model was a straight forward and linear model. The waterfall model had various phases such as Requirement Definition, Software Design, Implementation, Testing, Deployment, and Maintenance.
+
+Waterfall ModelSoftware development companies that used the waterfall model approach, had to spend a lot of time to get their product right. That is because unless you complete a particular phase, you could not proceed to the next phase. Also, the working software was delivered only after the final phase of this model.
+
+This model was only suitable for projects which had stable requirements. By stable, I mean that requirements will not change with the time. But in today’s world, this is a very unlikely thing because requirements keep on changing from time to time. These were a few drawbacks of the waterfall model.
+
+AGILE Methodology
+AGILE
+
+Next came the agile methodology of software development. Agile methodology is a practice that promotes continuous iteration of development and testing throughout the software development life cycle of the project. Both development and testing activities are concurrent, unlike the Waterfall model. While the Agile approach brought agility to development, it was lost on Operations which did not come up to speed with agile practices.
+
+
+There was a lack of collaboration between Developers and Operation Engineers and this slowed down the development process and releases. Software companies had begun to realize the need for better collaboration between the teams and faster delivery of software. This gave birth to the DevOps approach. DevOps enabled continuous software delivery with less complex problems to fix and faster resolution of problems.
+
+What is DevOps?
+ 
+
+DevOps
+
+The term DevOps is a combination of two words namely Development and Operations. DevOps is a practice that allows a single team to manage the entire application development life cycle, that is, development, testing, deployment, operations.
+
+The aim of DevOps is to shorten the system’s development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives.
+
+DevOps is a software development approach through which superior quality software can be developed quickly and with more reliability. It consists of various stages such as continuous development, continuous integration, continuous testing, continuous deployment, and continuous monitoring.
